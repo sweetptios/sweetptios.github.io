@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "[한글]Welcome to Jekyll!"
+title:  "[번역] Data in SwiftUI"
 date:   2020-01-21 22:54:40 +0900
-categories: jekyll update
+categories: SwiftUI 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+> 뷰는 이벤트의 연속이 아니라 상태의 함수입니다. (Views are a function of state, not of a sequence of events.) – WWDC 2019, session 226
 
-`YEAR-MONTH-DAY-title.MARKUP`
+이 말을 컨퍼런스에서 처음 접했을 때 낯설었습니다.     
+그 의미를 이해하게 해준 블로그 글을 공유합니다.    
+SwiftUI 프레임워크에서는 View Controller가 필요하지 않습니다.    
+이 프레임워크가 View Controller의 역할을 어떻게 대신하고 있는지도 설명하고 있습니다.
+      
+[[한글번역] Data in SwiftUI](https://www.notion.so/sweetptios/Data-in-SwiftUI-8c59d23d08f947bbbe7a717852c6197b)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
