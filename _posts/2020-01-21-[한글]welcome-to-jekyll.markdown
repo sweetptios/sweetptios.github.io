@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[한글]Welcome to Jekyll!"
 date:   2020-01-21 22:54:40 +0900
 categories: jekyll update
 ---
