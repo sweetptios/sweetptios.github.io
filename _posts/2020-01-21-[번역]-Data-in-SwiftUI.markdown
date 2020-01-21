@@ -5,7 +5,8 @@ date:   2020-01-21 22:54:40 +0900
 categories: SwiftUI 
 ---
 
-> 뷰는 이벤트의 연속이 아니라 상태의 함수입니다. (Views are a function of state, not of a sequence of events.) – WWDC 2019, session 226
+> 뷰는 이벤트의 연속이 아니라 상태의 함수입니다. (Views are a function of state, not of a sequence of events.)    
+> – WWDC 2019, session 226
 
 이 말을 컨퍼런스에서 처음 접했을 때 낯설었습니다.     
 그 의미를 이해하게 해준 블로그 글을 공유합니다.    
