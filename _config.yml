@@ -61,5 +61,8 @@ plugins:
 lang: ko
 timezone: Asia/Seoul
 
+## => comments
+##############################
+disqus_id: sweetpt
 
-
+## 
