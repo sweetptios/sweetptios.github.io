@@ -15,5 +15,5 @@ categories: SwiftUI
 SwiftUI 프레임워크에서는 View Controller가 필요하지 않습니다.    
 이 프레임워크가 View Controller의 역할을 어떻게 대신하고 있는지도 설명하고 있습니다.
       
-[[한글번역] Data in SwiftUI](https://www.notion.so/sweetptios/Data-in-SwiftUI-8c59d23d08f947bbbe7a717852c6197b)
+[[번역] Data in SwiftUI](https://www.notion.so/sweetptios/Data-in-SwiftUI-8c59d23d08f947bbbe7a717852c6197b)
 
