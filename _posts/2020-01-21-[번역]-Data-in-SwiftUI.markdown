@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 title:  "[번역] Data in SwiftUI"
 date:   2020-01-21 22:54:40 +0900
 categories: SwiftUI 
