@@ -63,9 +63,9 @@ timezone: Asia/Seoul
 
 ## => comments
 ##############################
-comments:    
-    disqus:
-      shortname: sweetptios-github-io # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-		     shortname            : "devinlife-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  
+disqus:
+    shortname: sweetptios-github-io # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-		     shortname            : "devinlife-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 defaults:
   -
